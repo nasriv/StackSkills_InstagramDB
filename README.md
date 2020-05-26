@@ -2,4 +2,5 @@
 
 *SQL Database creation project based on StackSkills Course 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert'*
 
-<img src="" width="500">
+### Instagram Clone Database Structure
+<img src="https://github.com/nasriv/StackSkills_InstagramDB/blob/master/database_diagram.png" width="500">
